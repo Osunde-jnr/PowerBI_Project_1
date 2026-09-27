@@ -39,6 +39,17 @@ This is your mission control for the data job market. It showcases key KPIs like
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
+## Key Business Insights
+
+1. **Senior and Principal titles command a significant salary premium**  
+   Roles with “Principal”, “Director”, or “Associate Director” in the title consistently appear at the top of the compensation range (often $180K–$250K+). This indicates that career progression beyond the standard Data Analyst title is one of the strongest levers for salary growth in the current market.
+
+2. **Remote and Hybrid flexibility remains a major differentiator**  
+   A large proportion of the highest-paying postings are fully remote or hybrid. Candidates who prioritize (or can accept) remote work have access to a broader and higher-paying talent pool compared to those limited to on-site opportunities.
+
+3. **SQL + Python + a modern visualization tool form the core in-demand stack**  
+   Across both high-paying and high-volume job postings, SQL appears almost universally, closely followed by Python and either Tableau or Power BI. Job seekers who master this combination (plus one cloud data platform) are positioned for the widest range of opportunities and stronger negotiating power.
+
 ---
 
 ## Conclusion
